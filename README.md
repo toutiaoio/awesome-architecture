@@ -6,6 +6,8 @@
 欢迎订阅《码农周刊》！[**订阅地址**](https://weekly.manong.io/?ref=github)<br/>
 **如何加入读者群？** 关注下方微信公众号，回复 “**入群**” 即可。<br/>
 <img src="https://img.toutiao.io/ads/dw_qrcode_560x160.png"><br/>
+**小程序版「架构师技术图谱」** 扫描下方微信小程序码，即刻体验。<br/>
+<img src="https://img.toutiao.io/ads/architecture_qrcode_200x200.png"><br/>
 
 - [分布式](#分布式)
 - [前端](#前端)
