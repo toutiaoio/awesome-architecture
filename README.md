@@ -1,8 +1,10 @@
 ## 架构师技术图谱，助你早日成为架构师
 
-> 本项目是《码农周刊》架构学习资料精选，**码农周刊团队官方出品**。架构师必读，助你早日成为架构师！
+> 本项目是《码农周刊》架构学习资料精选，**码农周刊团队官方出品**。架构师必
+读，助你早日成为架构师！
 
-**架构师技术图谱包括**：分布式、前端、大数据、存储、微服务、推荐系统、框架、消息队列、编程语言、设计模式、重构、集群等内容。<br/>
+**架构师技术图谱包括**：分布式、前端、大数据、存储、微服务、推荐系统、框架
+、消息队列、编程语言、设计模式、重构、集群等内容。<br/>
 体验**小程序版「架构师技术图谱」**，扫描下方微信小程序码即可。<br/>
 <img src="https://img.toutiao.io/ads/architecture_qrcode_200x200.png"><br/>
 欢迎订阅《码农周刊》！[**订阅地址**](https://weekly.manong.io/?ref=github)<br/>
@@ -257,6 +259,8 @@
 
 ## 前端
 
+- [Serverless 掀起新的前端技术变革](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F8sctee&aid=17145&nid=272)
+- [前端要知道的 RESTful API 架构风格](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fnzomb0&aid=17135&nid=272)
 - [记一次前端项目重构要点总结](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fp20k50&aid=16887&nid=269)
 - [大型项目前端架构浅谈](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fcosds3&aid=16432&nid=264)
 - [简单高性能的 JavaScript 组件框架 Ale.js](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fzm5v0z&aid=15137&nid=246)
@@ -264,9 +268,9 @@
 - [面向体验的重构优化](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fyw7ikn&aid=14232&nid=232)
 - [用微前端的方式搭建类单页应用](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fj6ow58&aid=14152&nid=231)
 - [前端重构范式之 float layout](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fif6kcd&aid=13886&nid=227)
+- [[译] Uber 开源 Fusion.js：一个基于插件架构的通用 Web 框架](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fdjks43&aid=13835&nid=226)
 - [Node.js：浅析高并发与分布式集群](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Flqz7i8&aid=13806&nid=226)
 - [size-sensor：开源高性能 DOM 元素尺寸监听器](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Ftevbzv&aid=13837&nid=226)
-- [[译] Uber 开源 Fusion.js：一个基于插件架构的通用 Web 框架](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fdjks43&aid=13835&nid=226)
 - [微前端快速选型指南](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fg2nb3j&aid=13703&nid=224)
 - [移动应用架构演变及泛前端趋势下移动团队破局](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fctjcpt&aid=13580&nid=223)
 - [实施前端微服务化的六七种方式](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fz50khd&aid=13525&nid=222)
@@ -277,8 +281,8 @@
 - [浅谈 Chromium 中的设计模式（一）：Chromium 中模块分层和进程模型](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fn96o20&aid=12747&nid=210)
 - [技术雷达之 “微前端”：将微服务理念扩展到前端开发](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F7lfr8v&aid=12317&nid=204)
 - [从 Nuxt.js 学习到了什么](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fq3q80x&aid=12083&nid=201)
-- [技术雷达之 “微前端”：将微服务理念扩展到前端开发](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Farjm1p&aid=11928&nid=199)
 - [React 应用架构设计](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fgjtz0e&aid=11921&nid=199)
+- [技术雷达之 “微前端”：将微服务理念扩展到前端开发](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Farjm1p&aid=11928&nid=199)
 - [基于 Egg 的高可靠高性能 React 同构解决方案 beidou 开源了](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fbkm8ln&aid=11862&nid=198)
 - [当 Web 前端架构方案遇上《金瓶梅》](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Ft3rpu2&aid=11127&nid=188)
 - [[译] 实现达到 60FPS 的高性能交互动画](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F009rtd&aid=11072&nid=187)
@@ -292,8 +296,8 @@
 - [[译] 解析 Twitter 前端架构，学习复杂场景数据设计](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fu9fwu3&aid=9469&nid=165)
 - [[译] Twitter Lite 以及大规模的高性能 React 渐进式网络应用](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F6lihs5&aid=9296&nid=163)
 - [小程序底层框架实现原理解析](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F0v0kpa&aid=9079&nid=160)
-- [[译] Google 是如何开发 Web 框架的](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fn0gdvg&aid=8790&nid=156)
 - [API 设计之道](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F54dv15&aid=8823&nid=156)
+- [[译] Google 是如何开发 Web 框架的](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fn0gdvg&aid=8790&nid=156)
 - [《webpack 多页应用架构系列》电子书](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fu4ugs5&aid=7881&nid=141)
 - [在重构脚手架中掌握 React / Redux / Webpack2 基本套路](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fpq17kb&aid=7739&nid=139)
 - [支付宝前端应用架构的发展和选择](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fspvwfm&aid=6833&nid=126)
@@ -446,14 +450,15 @@
 
 ## 微服务
 
+- [微服务中使用 OpenJ9 JVM 内存占用降 60%（相对 HotSpot）](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Ftq492f&aid=17102&nid=272)
 - [高性能微服务网关 .NETCore 客户端 Kong.Net 开源发布](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fhn0ni4&aid=17003&nid=270)
 - [微服务任务调度平台 SIA-TASK 入手实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Ft5kl7a&aid=16740&nid=267)
 - [[译] 为什么微服务适合我们](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F0iwp7w&aid=16601&nid=266)
 - [微服务架构与领域驱动设计应用实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F527e3y&aid=16600&nid=266)
 - [[译] 容器、微服务和服务网格简史](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fp54rbk&aid=16547&nid=265)
+- [个推基于 Zipkin 的分布式链路追踪实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F56ji5m&aid=16443&nid=264)
 - [可落地的 DDD（三）：如何利用 DDD 进行微服务的划分](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fvwjg5c&aid=16440&nid=264)
 - [轻松构建微服务之分布式配置中心](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fo84er8&aid=16470&nid=264)
-- [个推基于 Zipkin 的分布式链路追踪实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F56ji5m&aid=16443&nid=264)
 - [轻松构建微服务之远程调用](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F57dduv&aid=16356&nid=263)
 - [微服务架构下的配置管理：Apollo](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fx7mni2&aid=16287&nid=262)
 - [土味微服务](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fmeg1cl&aid=16252&nid=262)
@@ -475,9 +480,9 @@
 - [小型系统如何 “微服务” 开发](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fz1n2qv&aid=15086&nid=246)
 - [Kafka 如何解决常见的微服务通信问题](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fpiiy8y&aid=15057&nid=245)
 - [为什么使用主数据思维构建微服务是一种好方式？](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F44rb55&aid=15000&nid=244)
+- [[译] 微服务通信的设计模式](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fvnvqk7&aid=14937&nid=243)
 - [随行付微服务之数据同步 Porter](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fcai7gs&aid=14932&nid=243)
 - [[译] 微服务设计指南](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F4ju4tg&aid=14892&nid=243)
-- [[译] 微服务通信的设计模式](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fvnvqk7&aid=14937&nid=243)
 - [走进 Service Mesh](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fyp0jtz&aid=14874&nid=242)
 - [Restful API 监控实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fjzn3sg&aid=14801&nid=241)
 - [DAGOR：微信微服务过载控制系统（附论文）](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fms81by&aid=14770&nid=241)
@@ -756,6 +761,7 @@
 
 ## 编程语言
 
+- [微服务中使用 OpenJ9 JVM 内存占用降 60%（相对 HotSpot）](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Ftq492f&aid=17102&nid=272)
 - [Go 并发设计模式之 Active Object](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fasw5qp&aid=17073&nid=271)
 - [函数式编程让你忘记设计模式](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fo09i73&aid=16878&nid=269)
 - [AAC 系列（四）：深入理解架构组件 ViewModel](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F88qvcp&aid=16648&nid=266)
@@ -765,8 +771,8 @@
 - [拍拍贷消息系统原理与应用](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fx5qrda&aid=16336&nid=263)
 - [微服务化后缓存怎么做](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F7q0a3u&aid=16189&nid=261)
 - [Golang Failpoint 的设计与实现](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fep1en9&aid=16148&nid=260)
-- [[译] 高性能 Go 服务的内存优化](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fmacdlu&aid=15921&nid=257)
 - [Golang 轻量级高并发 socket 框架 chitchat](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fwmwus4&aid=15910&nid=257)
+- [[译] 高性能 Go 服务的内存优化](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fmacdlu&aid=15921&nid=257)
 - [马蜂窝搜索基于 Golang 并发代理的一次架构升级](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fbu5td2&aid=15817&nid=256)
 - [Android 技术架构演进与未来](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F6jrqfl&aid=15745&nid=255)
 - [Android 架构组件：让天下没有难做的 App](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F0qt8jk&aid=15678&nid=254)
@@ -779,6 +785,7 @@
 - [Android 架构之长连接技术](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fheduhs&aid=14905&nid=243)
 - [被滥用的 GUI 设计模式](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fpgarge&aid=14906&nid=243)
 - [Android Architecture Component 和架构升级在铭师堂的实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fj7nzmk&aid=14837&nid=242)
+- [杭州有赞招聘资深 Java 开发工程师/垂直业务架构师](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fs16bsw&aid=13843&nid=239)
 - [gorouter：简单高性能的 Go router](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F2qyv4h&aid=14640&nid=238)
 - [[译] 剖析 ARM64 架构中的 objc_msgSend](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fbhbluo&aid=14137&nid=231)
 - [最佳实践：重构 AppDelegate（iOS）](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fpuxwzs&aid=14066&nid=230)
@@ -801,8 +808,8 @@
 - [什么时候能用上设计模式？](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fbeyk5y&aid=13075&nid=215)
 - [从跨语言调用到 dubbo2.js](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F1ragmw&aid=13098&nid=215)
 - [秒杀架构实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fzavy6s&aid=12999&nid=214)
-- [罗辑思维 Go 语言微服务改造实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F1kjbj5&aid=12924&nid=213)
 - [[译] PHP-FPM 调优：为了高性能使用 pm static](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fw0d16z&aid=12922&nid=213)
+- [罗辑思维 Go 语言微服务改造实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F1kjbj5&aid=12924&nid=213)
 - [Android 工程模块化平台的设计](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxq9rcw&aid=12846&nid=212)
 - [Golang 高性能实战](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F155gol&aid=12800&nid=211)
 - [浅析 iOS 中的设计模式](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fdvul4d&aid=12795&nid=211)
@@ -844,12 +851,12 @@
 - [Biny：腾讯出品的高性能的超轻量级 PHP 框架](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fpixeg9&aid=11099&nid=187)
 - [MultiHttp：高性能的 PHP 封装的 HTTP Restful 多线程并发请求库](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fri3tnj&aid=11097&nid=187)
 - [浅析分布式下的事件驱动机制](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fti5unv&aid=11073&nid=187)
-- [dubbo 源码解析：集群容错架构设计](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fg6a3fw&aid=11000&nid=186)
 - [用 500 行 Golang 代码实现高性能的消息回调中间件](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fu6hhfn&aid=10977&nid=186)
-- [php-msf：基于 Swoole 的工程级企业微服务框架](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fbbht62&aid=10855&nid=184)
+- [dubbo 源码解析：集群容错架构设计](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fg6a3fw&aid=11000&nid=186)
 - [深度解读 Java 线程池设计思想及源码实现](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fseyr4y&aid=10793&nid=184)
-- [深入理解 iOS 设计模式](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F6kb78y&aid=10737&nid=183)
+- [php-msf：基于 Swoole 的工程级企业微服务框架](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fbbht62&aid=10855&nid=184)
 - [基于 Java、Kafka、ElasticSearch 的搜索框架的设计与实现](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Ffc0f0p&aid=10731&nid=183)
+- [深入理解 iOS 设计模式](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F6kb78y&aid=10737&nid=183)
 - [Android 应用架构组件实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fmp85ri&aid=10653&nid=182)
 - [如何用 Go 打造亿级实时分布式出行平台](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fsntl6i&aid=10587&nid=181)
 - [[译] 基于 Android Architecture Components 的应用架构指南](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fuk2he1&aid=10582&nid=181)
@@ -860,10 +867,10 @@
 - [iOS 从 0 到 1 搭建高可用 App 框架（二）](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fr7yjio&aid=10214&nid=176)
 - [再谈 WebSocket，论架构设计](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fdnygab&aid=10166&nid=175)
 - [iOS 响应式架构](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Facm8aw&aid=10080&nid=174)
-- [Laravel + go-micro + grpc 实践基于 Zipkin 的分布式链路追踪系统](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fo9e9gh&aid=10095&nid=174)
 - [两年 PHPer 聊下架构](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fjzvfgf&aid=10083&nid=174)
-- [Base 封装（一）：我的最简 MVP 架构](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fqji3ft&aid=10003&nid=173)
+- [Laravel + go-micro + grpc 实践基于 Zipkin 的分布式链路追踪系统](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fo9e9gh&aid=10095&nid=174)
 - [iOS 架构实践：The Right Way to Architect iOS App with Swift](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F2x5xil&aid=10007&nid=173)
+- [Base 封装（一）：我的最简 MVP 架构](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fqji3ft&aid=10003&nid=173)
 - [iOS 动态功能部署我们是这样实现的：理论设计篇](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F7k6g5g&aid=9945&nid=172)
 - [iOS 架构设计：URL 缓存](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Ff42gp4&aid=9879&nid=171)
 - [[译] Google 官方推出应用开发架构指南](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fbun0rg&aid=9747&nid=169)
@@ -950,6 +957,7 @@
 
 ## 设计模式
 
+- [Go 并发设计模式之 Half-Sync/Half-Async](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Feq68nw&aid=17116&nid=272)
 - [Go 并发设计模式之 Active Object](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fasw5qp&aid=17073&nid=271)
 - [函数式编程让你忘记设计模式](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fo09i73&aid=16878&nid=269)
 - [[译] 微服务通信的设计模式](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fvnvqk7&aid=14937&nid=243)
