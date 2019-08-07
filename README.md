@@ -249,6 +249,7 @@
 
 ## 前端
 
+- [你想知道的 React 组件设计模式这里都有（上）](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fh91pvf&aid=17190&nid=273)
 - [Serverless 掀起新的前端技术变革](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F8sctee&aid=17145&nid=272)
 - [前端要知道的 RESTful API 架构风格](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fnzomb0&aid=17135&nid=272)
 - [记一次前端项目重构要点总结](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fp20k50&aid=16887&nid=269)
@@ -258,8 +259,8 @@
 - [面向体验的重构优化](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fyw7ikn&aid=14232&nid=232)
 - [用微前端的方式搭建类单页应用](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fj6ow58&aid=14152&nid=231)
 - [前端重构范式之 float layout](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fif6kcd&aid=13886&nid=227)
-- [[译] Uber 开源 Fusion.js：一个基于插件架构的通用 Web 框架](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fdjks43&aid=13835&nid=226)
 - [Node.js：浅析高并发与分布式集群](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Flqz7i8&aid=13806&nid=226)
+- [[译] Uber 开源 Fusion.js：一个基于插件架构的通用 Web 框架](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fdjks43&aid=13835&nid=226)
 - [size-sensor：开源高性能 DOM 元素尺寸监听器](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Ftevbzv&aid=13837&nid=226)
 - [微前端快速选型指南](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fg2nb3j&aid=13703&nid=224)
 - [移动应用架构演变及泛前端趋势下移动团队破局](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fctjcpt&aid=13580&nid=223)
@@ -271,8 +272,8 @@
 - [浅谈 Chromium 中的设计模式（一）：Chromium 中模块分层和进程模型](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fn96o20&aid=12747&nid=210)
 - [技术雷达之 “微前端”：将微服务理念扩展到前端开发](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F7lfr8v&aid=12317&nid=204)
 - [从 Nuxt.js 学习到了什么](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fq3q80x&aid=12083&nid=201)
-- [React 应用架构设计](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fgjtz0e&aid=11921&nid=199)
 - [技术雷达之 “微前端”：将微服务理念扩展到前端开发](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Farjm1p&aid=11928&nid=199)
+- [React 应用架构设计](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fgjtz0e&aid=11921&nid=199)
 - [基于 Egg 的高可靠高性能 React 同构解决方案 beidou 开源了](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fbkm8ln&aid=11862&nid=198)
 - [当 Web 前端架构方案遇上《金瓶梅》](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Ft3rpu2&aid=11127&nid=188)
 - [[译] 实现达到 60FPS 的高性能交互动画](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F009rtd&aid=11072&nid=187)
@@ -285,8 +286,8 @@
 - [[译] 解析 Twitter 前端架构，学习复杂场景数据设计](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fu9fwu3&aid=9469&nid=165)
 - [[译] Twitter Lite 以及大规模的高性能 React 渐进式网络应用](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F6lihs5&aid=9296&nid=163)
 - [小程序底层框架实现原理解析](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F0v0kpa&aid=9079&nid=160)
-- [[译] Google 是如何开发 Web 框架的](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fn0gdvg&aid=8790&nid=156)
 - [API 设计之道](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F54dv15&aid=8823&nid=156)
+- [[译] Google 是如何开发 Web 框架的](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fn0gdvg&aid=8790&nid=156)
 - [《webpack 多页应用架构系列》电子书](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fu4ugs5&aid=7881&nid=141)
 - [在重构脚手架中掌握 React / Redux / Webpack2 基本套路](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fpq17kb&aid=7739&nid=139)
 - [支付宝前端应用架构的发展和选择](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fspvwfm&aid=6833&nid=126)
@@ -928,6 +929,7 @@
 
 ## 设计模式
 
+- [你想知道的 React 组件设计模式这里都有（上）](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fh91pvf&aid=17190&nid=273)
 - [Go 并发设计模式之 Half-Sync/Half-Async](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Feq68nw&aid=17116&nid=272)
 - [Go 并发设计模式之 Active Object](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fasw5qp&aid=17073&nid=271)
 - [函数式编程让你忘记设计模式](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fo09i73&aid=16878&nid=269)
