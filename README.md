@@ -260,6 +260,7 @@
 
 ## 前端
 
+- [2019 JSConf China《面向传统，Serverless 进化之路》分享文字版](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F6sngx4f&aid=17931&nid=283)
 - [巨树：基于 ztree 封装的 Vue 树形组件](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fwmbvapl&aid=17269&nid=274)
 - [你想知道的 React 组件设计模式这里都有（上）](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fh91pvf&aid=17190&nid=273)
 - [Serverless 掀起新的前端技术变革](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F8sctee&aid=17145&nid=272)
@@ -271,9 +272,9 @@
 - [面向体验的重构优化](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fyw7ikn&aid=14232&nid=232)
 - [用微前端的方式搭建类单页应用](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fj6ow58&aid=14152&nid=231)
 - [前端重构范式之 float layout](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fif6kcd&aid=13886&nid=227)
+- [size-sensor：开源高性能 DOM 元素尺寸监听器](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Ftevbzv&aid=13837&nid=226)
 - [[译] Uber 开源 Fusion.js：一个基于插件架构的通用 Web 框架](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fdjks43&aid=13835&nid=226)
 - [Node.js：浅析高并发与分布式集群](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Flqz7i8&aid=13806&nid=226)
-- [size-sensor：开源高性能 DOM 元素尺寸监听器](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Ftevbzv&aid=13837&nid=226)
 - [微前端快速选型指南](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fg2nb3j&aid=13703&nid=224)
 - [移动应用架构演变及泛前端趋势下移动团队破局](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fctjcpt&aid=13580&nid=223)
 - [实施前端微服务化的六七种方式](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fz50khd&aid=13525&nid=222)
