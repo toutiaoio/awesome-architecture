@@ -260,6 +260,8 @@
 
 ## 前端
 
+- [Egg.js 打造高可用服务集群](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fjvrb95x&aid=17992&nid=284)
+- [闲鱼前端基于 Serverless 的一种多端开发解决方案](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fn7j7i9h&aid=17987&nid=284)
 - [2019 JSConf China《面向传统，Serverless 进化之路》分享文字版](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F6sngx4f&aid=17931&nid=283)
 - [巨树：基于 ztree 封装的 Vue 树形组件](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fwmbvapl&aid=17269&nid=274)
 - [你想知道的 React 组件设计模式这里都有（上）](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fh91pvf&aid=17190&nid=273)
@@ -636,6 +638,7 @@
 
 ## 推荐系统
 
+- [YouTube 基于多任务学习的视频排序推荐系统](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F0hi57u3&aid=17964&nid=284)
 - [Facebook 面向个性化推荐系统的深度学习推荐模型](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F5410zpi&aid=17834&nid=282)
 - [深度学习在推荐系统中的应用](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F6b159gq&aid=17833&nid=282)
 - [如何优化大规模推荐？下一代算法技术 JTM 来了](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fsru663w&aid=17753&nid=281)
@@ -647,8 +650,8 @@
 - [《推荐系统开发实战》之推荐系统的灵魂伴侣：数据挖掘](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fwhj4eb&aid=16980&nid=270)
 - [基于 Erlang 语言的视频相似推荐系统](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F1whved&aid=16953&nid=270)
 - [推荐系统之矩阵分解模型（原理篇）](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fzf3wie&aid=16543&nid=265)
-- [数据与广告系列（七）：广告与推荐系统技术架构](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F621wdc&aid=16469&nid=264)
 - [构建可解释的推荐系统](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Foj35u4&aid=16450&nid=264)
+- [数据与广告系列（七）：广告与推荐系统技术架构](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F621wdc&aid=16469&nid=264)
 - [从零开始入门推荐算法工程师](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fb78d1l&aid=16277&nid=262)
 - [推荐系统冷启动](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Feo59x2&aid=15891&nid=257)
 - [深度召回模型在 QQ 看点推荐中的应用实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fu5o1mp&aid=15670&nid=254)
@@ -663,8 +666,8 @@
 - [推荐系统遇上深度学习（十五）：强化学习在京东推荐中的探索](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F1tmfmy&aid=13326&nid=219)
 - [推荐系统遇上深度学习（十一）：神经协同过滤 NCF 原理及实战](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fcm6hka&aid=13187&nid=217)
 - [从先进走向普遍的广告和推荐系统方法之一：在线学习](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F9t354k&aid=12819&nid=211)
-- [微软亚洲研究院论文解读：GAN 在网络特征学习中的应用](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F4l1kex&aid=12282&nid=204)
 - [深度学习在 58 同城智能推荐系统中的应用实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fthubku&aid=12278&nid=204)
+- [微软亚洲研究院论文解读：GAN 在网络特征学习中的应用](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F4l1kex&aid=12282&nid=204)
 - [ 深度学习在推荐系统上的应用](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fpmd2v1&aid=12203&nid=203)
 - [今日头条推荐算法原理全文详解](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fvm05h0&aid=12157&nid=202)
 - [从原理到策略算法再到架构产品看推荐系统](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fn2powm&aid=12115&nid=202)
@@ -678,8 +681,8 @@
 - [蘑菇街推荐工程实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F35tpcy&aid=10176&nid=175)
 - [[译] 亚马逊推荐二十年](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fh1peov&aid=10147&nid=175)
 - [今日头条成功的核心技术秘诀是什么？](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fnvao7r&aid=10146&nid=175)
-- [写给设计师的人工智能指南：推荐系统](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fdn9rsm&aid=9865&nid=171)
 - [Pinterest 推荐系统四年进化之路](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F44yl8e&aid=9862&nid=171)
+- [写给设计师的人工智能指南：推荐系统](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fdn9rsm&aid=9865&nid=171)
 - [深度学习在推荐领域的应用](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fh1ey0b&aid=9850&nid=170)
 - [Deep Learning for Recommendation Systems](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fvlgip3&aid=9732&nid=169)
 - [Bandit 算法与推荐系统](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F7uziol&aid=9559&nid=166)
@@ -1045,6 +1048,7 @@
 
 ## 集群
 
+- [Egg.js 打造高可用服务集群](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fjvrb95x&aid=17992&nid=284)
 - [Zookeeper 集群如何高可用部署？](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fpsflvg&aid=16363&nid=263)
 - [滴滴 Elasticsearch 多集群架构实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F6ywapq&aid=16250&nid=262)
 - [那些年用过的 Redis 集群架构](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fbx4tiy&aid=15297&nid=249)
