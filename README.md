@@ -24,6 +24,7 @@
 
 ## 分布式
 
+- [SOSP19' Ceph 的十年经验总结：文件系统是否适合做分布式文件系统的后端](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Flyt9n91&aid=18431&nid=291)
 - [如果有人再问你怎么实现分布式延时消息，这篇文章丢给他](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F1aco4t1&aid=18395&nid=290)
 - [中间件底层实现的分布式协议之 Raft](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fycdzigb&aid=18384&nid=290)
 - [在分布式链路下，蚂蚁金服如何快速构建低成本、高可用联调环境？](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fjuvljt6&aid=18284&nid=289)
@@ -35,10 +36,10 @@
 - [ElasticDL：蚂蚁金服开源基于 TensorFlow 的弹性分布式深度学习系统](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Ffv0ohs6&aid=17721&nid=280)
 - [逻辑时钟：如何刻画分布式中的事件顺序](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fmyak0cj&aid=17667&nid=279)
 - [线性一致性实现原理剖析](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F6mzkcch&aid=17655&nid=279)
-- [XSQL：低门槛、易部署、更稳定的多数据源分布式查询引擎](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fd2s2pob&aid=17587&nid=278)
 - [分布式消息系统设计要点](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fozm344g&aid=17546&nid=278)
-- [端到端一致性，流系统 Spark/Flink/Kafka/DataFlow 对比总结](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fzy1vawh&aid=17385&nid=276)
+- [XSQL：低门槛、易部署、更稳定的多数据源分布式查询引擎](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fd2s2pob&aid=17587&nid=278)
 - [React Native 分布式热更新系统](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fiyckexn&aid=17421&nid=276)
+- [端到端一致性，流系统 Spark/Flink/Kafka/DataFlow 对比总结](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fzy1vawh&aid=17385&nid=276)
 - [盘点 Zookeeper 在分布式架构中的应用](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Foqr4qzf&aid=17266&nid=274)
 - [[译] 分布式系统经典论文：Google Bigtable 的设计和实现 (OSDI 2006)](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fnsv5xu&aid=17015&nid=271)
 - [[译] 分布式系统经典论文：Amazon Dynamo 的设计和实现 (SOSP 2007)](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fhoonp5&aid=17008&nid=270)
@@ -47,15 +48,15 @@
 - [高并发场景下分布式实时信令系统的架构实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fhp43pq&aid=16685&nid=267)
 - [8 个月打磨，一份送给程序员的 “分布式系统” 合集](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Ft421lk&aid=16627&nid=266)
 - [分布式系统关注点：360° 的全方位监控](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F1tyy60&aid=16540&nid=265)
-- [分布式时序数据库 QTSDB 的设计与实现](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F99ydes&aid=16414&nid=264)
-- [分布式系统关注点：构建易测试系统的 “六脉神剑”](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F2ml4xz&aid=16474&nid=264)
-- [轻松构建微服务之分布式配置中心](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fo84er8&aid=16470&nid=264)
 - [个推基于 Zipkin 的分布式链路追踪实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F56ji5m&aid=16443&nid=264)
+- [分布式时序数据库 QTSDB 的设计与实现](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F99ydes&aid=16414&nid=264)
 - [设计一个分布式 RPC 框架](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fdret83&aid=16439&nid=264)
+- [轻松构建微服务之分布式配置中心](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fo84er8&aid=16470&nid=264)
+- [分布式系统关注点：构建易测试系统的 “六脉神剑”](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F2ml4xz&aid=16474&nid=264)
 - [MXNet 结合 kubeflow 进行分布式训练](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fx0yb12&aid=16378&nid=263)
+- [分布式数据缓存中的一致性哈希算法](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fmndgeq&aid=16293&nid=262)
 - [聊一聊分布式对象存储解决方案](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fnpum4m&aid=16291&nid=262)
 - [分布式系统关注点：阻塞与非阻塞有什么区别？](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fcczcuh&aid=16290&nid=262)
-- [分布式数据缓存中的一致性哈希算法](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fmndgeq&aid=16293&nid=262)
 - [UidGenerator：百度开源的分布式 ID 服务](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxhcewg&aid=16120&nid=260)
 - [如何设计一个优秀的分布式系统？](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Flmuvic&aid=16085&nid=260)
 - [分布式 ID 生成策略](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F2jy9rw&aid=16040&nid=259)
@@ -82,8 +83,8 @@
 - [为自己搭建一个分布式 IM（即时通讯）系统](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fqh17sc&aid=15134&nid=246)
 - [手绘 raft 一致性算法](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxf4vhf&aid=15133&nid=246)
 - [kingbus：基于 Raft 的分布式 MySQL binlog 存储系统](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Flwb5b3&aid=15139&nid=246)
-- [分布式系统的基石：深入浅出共识算法](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fu4c7lv&aid=15068&nid=245)
 - [[译] 伯克利开源多数据流实时分布式分析系统 Confluo，吞吐超 Kafka 4-10 倍](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fdos8cl&aid=15072&nid=245)
+- [分布式系统的基石：深入浅出共识算法](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fu4c7lv&aid=15068&nid=245)
 - [Ambry：LinkedIn 对象存储论文翻译](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fl8oghr&aid=14990&nid=244)
 - [Go 分布式实时服务架构](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fetrnyn&aid=14984&nid=244)
 - [自己写分布式配置中心（上）：单机模式](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fsmpor6&aid=14918&nid=243)
@@ -94,9 +95,9 @@
 - [[译] 深度神经网络的分布式训练概述：常用方法和技巧全面总结](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F4ujc6y&aid=14662&nid=239)
 - [分布式基础，通俗易懂 CAP？](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Frnojsa&aid=14628&nid=238)
 - [分布式系统关注点：做了负载均衡就可以随便加机器了吗？](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fbb4qwr&aid=14585&nid=238)
+- [自己写分布式限流组件：基于 Redis 的 RateLimter](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fvx5em2&aid=14543&nid=237)
 - [大规模 MySQL 运维陷阱之基于 MyCat 的伪分布式架构](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F1kid2f&aid=14510&nid=237)
 - [分布式之消息队列复习精讲](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fyosx21&aid=14551&nid=237)
-- [自己写分布式限流组件：基于 Redis 的 RateLimter](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fvx5em2&aid=14543&nid=237)
 - [分布式高性能 Redis 集群线上常见问题](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Ffxnlcx&aid=14485&nid=236)
 - [详解分布式协调服务 ZooKeeper](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fnmeenq&aid=14366&nid=234)
 - [如果再有人问你分布式 ID，这篇文章丢给他](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F4uqsp5&aid=14346&nid=234)
@@ -136,8 +137,8 @@
 - [饿了么异地多活技术实现（三）：GZS & DAL](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fqvrp0i&aid=12406&nid=206)
 - [分布式技术集锦](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fnucswn&aid=12333&nid=205)
 - [漫谈分布式系统、拜占庭将军问题与区块链](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fdbunl6&aid=12267&nid=204)
-- [分布式系统数据层设计模式](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fm0se1z&aid=12191&nid=203)
 - [Zeppelin：奇虎 360 出品的高性能分布式 KV 存储平台](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fe0h0tu&aid=12254&nid=203)
+- [分布式系统数据层设计模式](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fm0se1z&aid=12191&nid=203)
 - [分布式 Redis 架构设计简介](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fu64f4z&aid=12116&nid=202)
 - [跟繁琐的命令行说拜拜，Gerapy 分布式爬虫管理框架来袭](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fnqxt5d&aid=12177&nid=202)
 - [分布式文件系统 FastDFS 详解](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fk8b72k&aid=11995&nid=200)
@@ -265,6 +266,7 @@
 
 ## 前端
 
+- [[译] 不容错过的 Node.js 项目架构](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxaazxb8&aid=18478&nid=291)
 - [学习 sentry 源码整体架构，打造属于自己的前端异常监控 SDK](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxqgn0kk&aid=18068&nid=285)
 - [Egg.js 打造高可用服务集群](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fjvrb95x&aid=17992&nid=284)
 - [闲鱼前端基于 Serverless 的一种多端开发解决方案](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fn7j7i9h&aid=17987&nid=284)
@@ -467,6 +469,7 @@
 
 ## 微服务
 
+- [探探如何三个月完成微服务改造，以及踩过的 “坑”](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F940ata9&aid=18432&nid=291)
 - [余额宝背后的服务治理架构](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fwsek9ag&aid=18362&nid=290)
 - [2w 字长文，让你瞬间拥有 “调用链” 开发经验](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F3e7lgvy&aid=18170&nid=287)
 - [腾讯微服务框架 Tars 的 Go 性能提升之路](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fw9edu5t&aid=17875&nid=282)
@@ -495,8 +498,8 @@
 - [最全的微服务知识科普](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Flzegj5&aid=16108&nid=260)
 - [聊一聊微服务网关 kong 近期的模型变迁](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Ff1k7wv&aid=16052&nid=259)
 - [小团队微服务落地实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F37u12h&aid=16020&nid=259)
-- [[译] 未来我们对微服务和 Serverless 架构有什么期望](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Foopku4&aid=15866&nid=257)
 - [[译] 混合微服务模式](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F6018jy&aid=15887&nid=257)
+- [[译] 未来我们对微服务和 Serverless 架构有什么期望](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Foopku4&aid=15866&nid=257)
 - [微保 API 网关的探索与实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Ffnp7wn&aid=15727&nid=255)
 - [[译] 使用 Grab 的实验平台进行混沌实验编排](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fawfudg&aid=15641&nid=253)
 - [离不开的微服务架构，脱不开的 RPC 细节](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F74yprd&aid=15520&nid=252)
@@ -509,8 +512,8 @@
 - [小型系统如何 “微服务” 开发](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fz1n2qv&aid=15086&nid=246)
 - [Kafka 如何解决常见的微服务通信问题](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fpiiy8y&aid=15057&nid=245)
 - [为什么使用主数据思维构建微服务是一种好方式？](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F44rb55&aid=15000&nid=244)
-- [[译] 微服务设计指南](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F4ju4tg&aid=14892&nid=243)
 - [随行付微服务之数据同步 Porter](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fcai7gs&aid=14932&nid=243)
+- [[译] 微服务设计指南](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F4ju4tg&aid=14892&nid=243)
 - [[译] 微服务通信的设计模式](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fvnvqk7&aid=14937&nid=243)
 - [走进 Service Mesh](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fyp0jtz&aid=14874&nid=242)
 - [Restful API 监控实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fjzn3sg&aid=14801&nid=241)
@@ -518,8 +521,8 @@
 - [微服务测试的思考与实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F4gy52r&aid=14747&nid=240)
 - [基于 Spring Cloud 的微服务架构演变史](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fcwhh48&aid=14714&nid=240)
 - [致传统企业朋友：不够痛就别微服务，有坑](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fodkk8i&aid=14651&nid=239)
-- [个推基于 Docker 和 Kubernetes 的微服务实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F3n201x&aid=14549&nid=237)
 - [讨论微服务之前，你知道微服务的 4 个定义吗？](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F39utp2&aid=14561&nid=237)
+- [个推基于 Docker 和 Kubernetes 的微服务实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F3n201x&aid=14549&nid=237)
 - [爱奇艺视频后台从 “单兵作战” 到 “团队协作” 的微服务实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F9o4d71&aid=14311&nid=234)
 - [基于 consul 实现微服务的服务发现和负载均衡](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fl2jvii&aid=14234&nid=232)
 - [认证鉴权与 API 权限控制在微服务架构中的设计与实现：升级](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fd7394m&aid=14161&nid=231)
@@ -648,6 +651,7 @@
 
 ## 推荐系统
 
+- [wide & deep 在贝壳推荐场景的实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fm5ne38u&aid=18435&nid=291)
 - [混合推荐系统介绍](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fptui4y4&aid=18391&nid=290)
 - [微信开发工程师带你一文了解推荐领域最新工作](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F3m6f9zp&aid=18295&nid=289)
 - [推荐技术系列（四）：利用社交关系的隐式矩阵分解原理和实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F1gdic37&aid=18135&nid=286)
@@ -660,11 +664,11 @@
 - [矩阵分解推荐算法](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F62lhcin&aid=17403&nid=276)
 - [论文：基于三部图网络结构的知识推荐算法](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F78vyfh6&aid=17244&nid=274)
 - [《推荐系统开发实战》之冷启动问题](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxv0mpu&aid=17031&nid=271)
-- [《推荐系统开发实战》之推荐系统的灵魂伴侣：数据挖掘](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fwhj4eb&aid=16980&nid=270)
 - [基于 Erlang 语言的视频相似推荐系统](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F1whved&aid=16953&nid=270)
+- [《推荐系统开发实战》之推荐系统的灵魂伴侣：数据挖掘](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fwhj4eb&aid=16980&nid=270)
 - [推荐系统之矩阵分解模型（原理篇）](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fzf3wie&aid=16543&nid=265)
-- [构建可解释的推荐系统](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Foj35u4&aid=16450&nid=264)
 - [数据与广告系列（七）：广告与推荐系统技术架构](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F621wdc&aid=16469&nid=264)
+- [构建可解释的推荐系统](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Foj35u4&aid=16450&nid=264)
 - [从零开始入门推荐算法工程师](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fb78d1l&aid=16277&nid=262)
 - [推荐系统冷启动](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Feo59x2&aid=15891&nid=257)
 - [深度召回模型在 QQ 看点推荐中的应用实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fu5o1mp&aid=15670&nid=254)
@@ -1026,6 +1030,7 @@
 
 ## 重构
 
+- [系统重构的道与术](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fbbitt36&aid=18438&nid=291)
 - [3000 字详解 Kylin 查询缓存重构](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fmwwbsa0&aid=18181&nid=287)
 - [CMS 后台重构技术方案](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fvb06zhh&aid=18079&nid=285)
 - [[译] 手把手介绍函数式编程：从命令式重构到函数式](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fwa8waj1&aid=17559&nid=278)
