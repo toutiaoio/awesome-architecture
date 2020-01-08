@@ -325,6 +325,7 @@
 
 ## 大数据
 
+- [大数据平台架构设计探究](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fpqs9wa4&aid=18557&nid=292)
 - [漫谈大数据平台架构](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fp03yz5o&aid=18372&nid=290)
 - [基于 Redis 实现的延迟消息队列](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fwww9xod&aid=18191&nid=287)
 - [小米 Go 开发实践：用 Go 构建高性能数据库中间件](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fo0y10it&aid=17812&nid=281)
@@ -349,11 +350,11 @@
 - [毫秒级从百亿大表任意维度筛选数据是怎么做到的？](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Frm0hc6&aid=14832&nid=242)
 - [用 Redis 实现分布式幂等服务中间件](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fubh2z8&aid=14811&nid=241)
 - [携程数据库高可用和容灾架构演进](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F1w7ee1&aid=14650&nid=239)
-- [自己写分布式限流组件：基于 Redis 的 RateLimter](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fvx5em2&aid=14543&nid=237)
 - [大规模 MySQL 运维陷阱之基于 MyCat 的伪分布式架构](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F1kid2f&aid=14510&nid=237)
+- [自己写分布式限流组件：基于 Redis 的 RateLimter](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fvx5em2&aid=14543&nid=237)
 - [分布式高性能 Redis 集群线上常见问题](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Ffxnlcx&aid=14485&nid=236)
-- [大数据推荐系统实时架构和离线架构](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fkwdn9d&aid=14382&nid=235)
 - [海量数据的挑战：微博直播答题架构实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F3ki1zs&aid=14383&nid=235)
+- [大数据推荐系统实时架构和离线架构](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fkwdn9d&aid=14382&nid=235)
 - [ZooKeeper 架构设计与角色分工](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F7klmai&aid=14358&nid=234)
 - [从单机到 2000 万 QPS：知乎 Redis 平台发展与演进之路](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fzpyhlq&aid=14251&nid=233)
 - [阿里如何实现秒级百万 TPS？搜索离线大数据平台架构解读](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fw8pn06&aid=14250&nid=233)
@@ -363,8 +364,8 @@
 - [金融级数据库的多活架构实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fqbsxb1&aid=13850&nid=227)
 - [分布式数据库 MVCC 技术探秘（一）](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F2cvy58&aid=13813&nid=226)
 - [58 速运架构实战：拆分服务与 DB，突破 “中心化” 瓶颈](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F2wekdm&aid=13792&nid=226)
-- [[译] Flink 创始人谈流计算核心架构演化和现状](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fsvnpvi&aid=13694&nid=224)
 - [面向机器学习数据平台的设计与搭建](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fzvkt04&aid=13657&nid=224)
+- [[译] Flink 创始人谈流计算核心架构演化和现状](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fsvnpvi&aid=13694&nid=224)
 - [京东推荐系统架构揭秘：大数据时代下的智能化改造](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fpdwme8&aid=13581&nid=223)
 - [HBase 高性能随机查询之道：HFile 原理解析](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fr6hzop&aid=13536&nid=222)
 - [沪江订单系统分表项目实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F4sc1s0&aid=13520&nid=222)
@@ -378,9 +379,9 @@
 - [BigTable 系统的设计与实现](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fhf599t&aid=12902&nid=213)
 - [分布式强一致性数据库的灵魂：Raft 算法](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F3kiiw1&aid=12877&nid=212)
 - [史上最全 Redis 高可用技术解决方案大全](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Ft7jma7&aid=12769&nid=211)
-- [同为分布式缓存，为何 Redis 更胜一筹？](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F6cr0xa&aid=12661&nid=209)
-- [每天数百亿用户行为数据，美团点评怎么实现秒级转化分析？](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fezmax6&aid=12626&nid=209)
 - [MPP 的进化：深入理解 Batch 和 MPP 优缺点](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F2a9ayg&aid=12667&nid=209)
+- [每天数百亿用户行为数据，美团点评怎么实现秒级转化分析？](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fezmax6&aid=12626&nid=209)
+- [同为分布式缓存，为何 Redis 更胜一筹？](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F6cr0xa&aid=12661&nid=209)
 - [浅谈大数据平台基建的逻辑](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Frpo5x5&aid=12584&nid=208)
 - [分布式系统数据层设计模式](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fm0se1z&aid=12191&nid=203)
 - [分布式 Redis 架构设计简介](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fu64f4z&aid=12116&nid=202)
@@ -777,6 +778,7 @@
 
 ## 消息队列
 
+- [深度剖析如何实现事务消息](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F7i6ylx9&aid=18543&nid=292)
 - [基于 Redis 实现的延迟消息队列](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fwww9xod&aid=18191&nid=287)
 - [万亿级消息背后: 小米消息队列的实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Frys99bx&aid=18161&nid=287)
 - [金融行业消息队列选型及实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fov5cay&aid=15449&nid=251)
@@ -803,6 +805,7 @@
 
 ## 编程语言
 
+- [iOS 基于静态库插桩的⼆进制重排启动优化](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fnnmw2x1&aid=18512&nid=292)
 - [Gbox：基于 Litho 的 Android 高性能动态业务容器，解决首页动态化的痛点](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F7t2itei&aid=18153&nid=286)
 - [Go 微服务全链路跟踪详解](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fkc0iaka&aid=17814&nid=281)
 - [小米 Go 开发实践：用 Go 构建高性能数据库中间件](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fo0y10it&aid=17812&nid=281)
