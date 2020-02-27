@@ -268,6 +268,7 @@
 
 ## 前端
 
+- [千万级流量业务的 Serverless 实践，看 FaaS 给前端带来的变化](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Ftzo9lwk&aid=18742&nid=296)
 - [[译] 不容错过的 Node.js 项目架构](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxaazxb8&aid=18478&nid=291)
 - [学习 sentry 源码整体架构，打造属于自己的前端异常监控 SDK](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxqgn0kk&aid=18068&nid=285)
 - [Egg.js 打造高可用服务集群](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fjvrb95x&aid=17992&nid=284)
@@ -473,6 +474,7 @@
 
 ## 微服务
 
+- [微服务杂谈](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fctuh4xl&aid=18752&nid=296)
 - [企业级微服务解决方案 v3.2.0 发布](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F6pkbspo&aid=18702&nid=295)
 - [Spring Boot 与微服务从 0 到 1 的实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Frbfhyll&aid=18651&nid=294)
 - [微服务统一认证与授权的 Go 语言实现（上）](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F2tc96jt&aid=18636&nid=294)
@@ -482,9 +484,9 @@
 - [余额宝背后的服务治理架构](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fwsek9ag&aid=18362&nid=290)
 - [2w 字长文，让你瞬间拥有 “调用链” 开发经验](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F3e7lgvy&aid=18170&nid=287)
 - [腾讯微服务框架 Tars 的 Go 性能提升之路](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fw9edu5t&aid=17875&nid=282)
-- [微服务架构之网关层 Zuul 剖析](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fc20pykp&aid=17782&nid=281)
-- [Go 微服务全链路跟踪详解](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fkc0iaka&aid=17814&nid=281)
 - [.NET Core 微服务网关 Bumblebee 架设](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F5necrxf&aid=17815&nid=281)
+- [Go 微服务全链路跟踪详解](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fkc0iaka&aid=17814&nid=281)
+- [微服务架构之网关层 Zuul 剖析](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fc20pykp&aid=17782&nid=281)
 - [微服务架构下，MySQL 读写分离后，数据库 CPU 飙升卡壳问题解析](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F2nh8e2o&aid=17708&nid=280)
 - [微服务 API 通过 ip 可访问，域名不可访问问题分析](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fy91g23q&aid=17488&nid=277)
 - [Service Mesh 发展趋势（续）：棋到中盘路往何方](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F9xnhkda&aid=17481&nid=277)
@@ -494,8 +496,8 @@
 - [微服务中使用 OpenJ9 JVM 内存占用降 60%（相对 HotSpot）](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Ftq492f&aid=17102&nid=272)
 - [高性能微服务网关 .NETCore 客户端 Kong.Net 开源发布](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fhn0ni4&aid=17003&nid=270)
 - [微服务任务调度平台 SIA-TASK 入手实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Ft5kl7a&aid=16740&nid=267)
-- [微服务架构与领域驱动设计应用实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F527e3y&aid=16600&nid=266)
 - [[译] 为什么微服务适合我们](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F0iwp7w&aid=16601&nid=266)
+- [微服务架构与领域驱动设计应用实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F527e3y&aid=16600&nid=266)
 - [[译] 容器、微服务和服务网格简史](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fp54rbk&aid=16547&nid=265)
 - [轻松构建微服务之分布式配置中心](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fo84er8&aid=16470&nid=264)
 - [个推基于 Zipkin 的分布式链路追踪实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F56ji5m&aid=16443&nid=264)
@@ -505,8 +507,8 @@
 - [土味微服务](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fmeg1cl&aid=16252&nid=262)
 - [微服务化后缓存怎么做](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F7q0a3u&aid=16189&nid=261)
 - [最全的微服务知识科普](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Flzegj5&aid=16108&nid=260)
-- [小团队微服务落地实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F37u12h&aid=16020&nid=259)
 - [聊一聊微服务网关 kong 近期的模型变迁](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Ff1k7wv&aid=16052&nid=259)
+- [小团队微服务落地实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F37u12h&aid=16020&nid=259)
 - [[译] 混合微服务模式](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F6018jy&aid=15887&nid=257)
 - [[译] 未来我们对微服务和 Serverless 架构有什么期望](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Foopku4&aid=15866&nid=257)
 - [微保 API 网关的探索与实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Ffnp7wn&aid=15727&nid=255)
