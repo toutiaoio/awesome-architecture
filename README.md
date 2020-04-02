@@ -274,6 +274,8 @@
 
 ## 前端
 
+- [前端为什么要关注 Serverless?](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F1mbvwoz&aid=19099&nid=301)
+- [一文道尽软件架构及前端架构演进](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F4c5x4fc&aid=19049&nid=301)
 - [爱奇艺号微前端架构实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fnwog8cj&aid=18805&nid=297)
 - [千万级流量业务的 Serverless 实践，看 FaaS 给前端带来的变化](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Ftzo9lwk&aid=18742&nid=296)
 - [[译] 不容错过的 Node.js 项目架构](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxaazxb8&aid=18478&nid=291)
@@ -283,8 +285,8 @@
 - [2019 JSConf China《面向传统，Serverless 进化之路》分享文字版](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F6sngx4f&aid=17931&nid=283)
 - [巨树：基于 ztree 封装的 Vue 树形组件](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fwmbvapl&aid=17269&nid=274)
 - [你想知道的 React 组件设计模式这里都有（上）](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fh91pvf&aid=17190&nid=273)
-- [Serverless 掀起新的前端技术变革](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F8sctee&aid=17145&nid=272)
 - [前端要知道的 RESTful API 架构风格](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fnzomb0&aid=17135&nid=272)
+- [Serverless 掀起新的前端技术变革](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F8sctee&aid=17145&nid=272)
 - [记一次前端项目重构要点总结](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fp20k50&aid=16887&nid=269)
 - [大型项目前端架构浅谈](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fcosds3&aid=16432&nid=264)
 - [简单高性能的 JavaScript 组件框架 Ale.js](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fzm5v0z&aid=15137&nid=246)
@@ -299,8 +301,8 @@
 - [移动应用架构演变及泛前端趋势下移动团队破局](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fctjcpt&aid=13580&nid=223)
 - [实施前端微服务化的六七种方式](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fz50khd&aid=13525&nid=222)
 - [重构 React 组件的实用清单](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fpmw8k9&aid=13468&nid=221)
-- [[译] 你需要了解的 23 种 JavaScript 设计模式](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F1orta0&aid=13207&nid=217)
 - [Web 框架的架构模式探讨（JavaScript 语言）](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fo3pp4d&aid=13206&nid=217)
+- [[译] 你需要了解的 23 种 JavaScript 设计模式](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F1orta0&aid=13207&nid=217)
 - [Webpack 基本架构浅析](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F0bdvnn&aid=12942&nid=213)
 - [浅谈 Chromium 中的设计模式（一）：Chromium 中模块分层和进程模型](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fn96o20&aid=12747&nid=210)
 - [技术雷达之 “微前端”：将微服务理念扩展到前端开发](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F7lfr8v&aid=12317&nid=204)
@@ -482,15 +484,16 @@
 
 ## 微服务
 
+- [微信 10 亿日活场景下，后台系统微服务架构实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Ftr32h3p&aid=19048&nid=301)
 - [Spring Cloud 微服务：阿里开源组件 Nacos，服务和配置管理](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fmgrqr95&aid=18961&nid=299)
 - [[译] 5 分钟搭建 Node.js 微服务原型](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxiqy4d6&aid=18916&nid=298)
 - [花椒直播 Kong 应用实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F82560ps&aid=18833&nid=297)
 - [微服务杂谈](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fctuh4xl&aid=18752&nid=296)
 - [企业级微服务解决方案 v3.2.0 发布](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F6pkbspo&aid=18702&nid=295)
-- [Spring Boot 与微服务从 0 到 1 的实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Frbfhyll&aid=18651&nid=294)
 - [微服务统一认证与授权的 Go 语言实现（上）](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F2tc96jt&aid=18636&nid=294)
 - [不是银弹：关于微服务的一点思考](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fbtws1rn&aid=18635&nid=294)
 - [CODING 微服务架构演进之路](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F9st5xky&aid=18612&nid=294)
+- [Spring Boot 与微服务从 0 到 1 的实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Frbfhyll&aid=18651&nid=294)
 - [探探如何三个月完成微服务改造，以及踩过的 “坑”](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F940ata9&aid=18432&nid=291)
 - [余额宝背后的服务治理架构](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fwsek9ag&aid=18362&nid=290)
 - [2w 字长文，让你瞬间拥有 “调用链” 开发经验](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F3e7lgvy&aid=18170&nid=287)
@@ -501,9 +504,9 @@
 - [微服务架构下，MySQL 读写分离后，数据库 CPU 飙升卡壳问题解析](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F2nh8e2o&aid=17708&nid=280)
 - [微服务 API 通过 ip 可访问，域名不可访问问题分析](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fy91g23q&aid=17488&nid=277)
 - [Service Mesh 发展趋势（续）：棋到中盘路往何方](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F9xnhkda&aid=17481&nid=277)
+- [万字长文全面解析 GraphQL，携程微服务背景下的前后端数据交互方案](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fndbbm8o&aid=17252&nid=274)
 - [颠覆微服务认知：深入思考微服务的七个主流观点](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fns7pxad&aid=17233&nid=274)
 - [互联网架构微服务已经成为主流，Go 语言如何去打造呢？](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fsh3lncg&aid=17296&nid=274)
-- [万字长文全面解析 GraphQL，携程微服务背景下的前后端数据交互方案](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fndbbm8o&aid=17252&nid=274)
 - [微服务中使用 OpenJ9 JVM 内存占用降 60%（相对 HotSpot）](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Ftq492f&aid=17102&nid=272)
 - [高性能微服务网关 .NETCore 客户端 Kong.Net 开源发布](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fhn0ni4&aid=17003&nid=270)
 - [微服务任务调度平台 SIA-TASK 入手实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Ft5kl7a&aid=16740&nid=267)
@@ -1027,6 +1030,7 @@
 
 ## 设计模式
 
+- [设计模式在外卖营销业务中的实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F6gqgvf1&aid=19089&nid=301)
 - [Golang 设计模式](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F9mzp3bf&aid=17715&nid=280)
 - [你真的懂 Builder 设计模式吗？论如何实现真正安全的 Builder 模式](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fvjgdzt1&aid=17484&nid=277)
 - [你想知道的 React 组件设计模式这里都有（上）](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fh91pvf&aid=17190&nid=273)
