@@ -1069,6 +1069,7 @@
 
 ## 重构
 
+- [靠谱程序员必备技能：重构也要有方法论](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F1m60x53&aid=19149&nid=303)
 - [系统重构的道与术](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fbbitt36&aid=18438&nid=291)
 - [3000 字详解 Kylin 查询缓存重构](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fmwwbsa0&aid=18181&nid=287)
 - [CMS 后台重构技术方案](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fvb06zhh&aid=18079&nid=285)
@@ -1094,8 +1095,8 @@
 - [Spark 技术在唯品会财务系统重构中的实践总结](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F2bts6n&aid=10888&nid=185)
 - [重构：靠谱程序员的必备技能](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fl0vos2&aid=9898&nid=171)
 - [重构之十六字心法](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fwrkil7&aid=9618&nid=167)
-- [如何重构 “箭头型” 代码](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fhqoj3c&aid=9324&nid=163)
 - [沪江学习 Android 端应用架构重构](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F4grbn9&aid=9310&nid=163)
+- [如何重构 “箭头型” 代码](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fhqoj3c&aid=9324&nid=163)
 - [使用微服务架构重构支付网关](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fj99pg0&aid=8947&nid=158)
 - [没有单元测试，何谈重构](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F9c7psr&aid=8059&nid=144)
 - [在重构脚手架中掌握 React / Redux / Webpack2 基本套路](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fpq17kb&aid=7739&nid=139)
