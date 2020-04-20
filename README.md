@@ -4,8 +4,11 @@
 
 架构师技术图谱包括：分布式、前端、大数据、存储、微服务、推荐系统、框架 、消息队列、编程语言、设计模式、重构、集群等内容。<br/>
 **码农周刊VIP会员**招募中，微信扫描下方二维码，[**立刻加入**](https://weekly.manong.io/bounce?nid=303&aid=19186&url=https%3A%2F%2Fvip.manong.io%2F%3Fgithub%23vip)！<br/>
-<img src="https://img.toutiao.io/ads/vip_303.png"><br/>
+
+< img src="https://img.toutiao.io/ads/vip_github.png"><br/>
+
 欢迎订阅《码农周刊》！[**订阅地址**](https://weekly.manong.io/bounce?nid=303&aid=19186&url=https%3A%2F%2Fvip.manong.io%2F%3Fgithub%23vip)<br/>
+
 
 - [分布式](#分布式)
 - [前端](#前端)
@@ -1126,5 +1129,3 @@
 <br/>
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-
