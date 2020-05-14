@@ -280,6 +280,7 @@
 
 ## 前端
 
+- [[译] 高性能前端架构解决方案](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxbg9x4z&aid=19280&nid=306)
 - [前端为什么要关注 Serverless?](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F1mbvwoz&aid=19099&nid=301)
 - [一文道尽软件架构及前端架构演进](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F4c5x4fc&aid=19049&nid=301)
 - [爱奇艺号微前端架构实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fnwog8cj&aid=18805&nid=297)
@@ -1039,6 +1040,7 @@
 
 ## 设计模式
 
+- [设计模式太难了？看看这个 “说人话” 的版本再说！](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F8ofy33k&aid=19293&nid=306)
 - [[译] Spring 中的设计模式](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fy5tucha&aid=19193&nid=304)
 - [设计模式在外卖营销业务中的实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F6gqgvf1&aid=19089&nid=301)
 - [Golang 设计模式](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F9mzp3bf&aid=17715&nid=280)
