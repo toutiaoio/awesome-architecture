@@ -25,6 +25,7 @@
 
 ## 分布式
 
+- [MIT 6.824 分布式系统课程第六课之错误容忍：Raft（一）](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fk3hxmqx&aid=19326&nid=307)
 - [漫谈分布式事务的那些解决方案](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fa21b8ih&aid=19264&nid=305)
 - [我司用了 6 年的 Redis 分布式限流器，可以说是非常厉害了](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fzh3mw4w&aid=19257&nid=305)
 - [架构设计基础：单服务、集群、分布式的基本区别和联系](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fqfdoann&aid=19231&nid=305)
@@ -686,6 +687,7 @@
 
 ## 推荐系统
 
+- [推荐系统中不得不说的 DSSM 双塔模型 ](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F9v5muff&aid=19354&nid=307)
 - [推荐系统的人工调控](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F806f4ts&aid=18992&nid=300)
 - [推荐系统提供 web 服务的 2 种方式](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fjl9cfe6&aid=18880&nid=298)
 - [推荐算法团队介绍](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fhtlu867&aid=18625&nid=294)
@@ -699,8 +701,8 @@
 - [Facebook 面向个性化推荐系统的深度学习推荐模型](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F5410zpi&aid=17834&nid=282)
 - [深度学习在推荐系统中的应用](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F6b159gq&aid=17833&nid=282)
 - [如何优化大规模推荐？下一代算法技术 JTM 来了](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fsru663w&aid=17753&nid=281)
-- [基于 Flink 实现的商品实时推荐系统](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fz7sgluz&aid=17579&nid=278)
 - [序列推荐模型 TransFM](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fssrfh9j&aid=17556&nid=278)
+- [基于 Flink 实现的商品实时推荐系统](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fz7sgluz&aid=17579&nid=278)
 - [矩阵分解推荐算法](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F62lhcin&aid=17403&nid=276)
 - [论文：基于三部图网络结构的知识推荐算法](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F78vyfh6&aid=17244&nid=274)
 - [《推荐系统开发实战》之冷启动问题](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxv0mpu&aid=17031&nid=271)
@@ -718,8 +720,8 @@
 - [58 部落帖子推荐系统的抬手动作](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fwvtv9f&aid=14547&nid=237)
 - [大数据推荐系统实时架构和离线架构](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fkwdn9d&aid=14382&nid=235)
 - [2018 年最全的推荐系统干货](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fl21nbg&aid=14220&nid=232)
-- [[译] 2018 年推荐系统入门指南](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fhszitv&aid=13611&nid=223)
 - [京东推荐系统架构揭秘：大数据时代下的智能化改造](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fpdwme8&aid=13581&nid=223)
+- [[译] 2018 年推荐系统入门指南](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fhszitv&aid=13611&nid=223)
 - [推荐系统遇上深度学习（十五）：强化学习在京东推荐中的探索](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F1tmfmy&aid=13326&nid=219)
 - [推荐系统遇上深度学习（十一）：神经协同过滤 NCF 原理及实战](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fcm6hka&aid=13187&nid=217)
 - [从先进走向普遍的广告和推荐系统方法之一：在线学习](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F9t354k&aid=12819&nid=211)
@@ -1040,6 +1042,7 @@
 
 ## 设计模式
 
+- [设计模式太难了？看看这个 “说人话” 的版本再说！](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F8ofy33k&aid=19349&nid=307)
 - [设计模式太难了？看看这个 “说人话” 的版本再说！](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F8ofy33k&aid=19293&nid=306)
 - [[译] Spring 中的设计模式](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fy5tucha&aid=19193&nid=304)
 - [设计模式在外卖营销业务中的实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F6gqgvf1&aid=19089&nid=301)
