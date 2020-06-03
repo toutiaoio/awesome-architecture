@@ -3,7 +3,7 @@
 > 本项目是《码农周刊》架构学习资料精选，**码农周刊团队官方出品**。架构师必读，助你早日成为架构师！
 
 架构师技术图谱包括：分布式、前端、大数据、存储、微服务、推荐系统、框架 、消息队列、编程语言、设计模式、重构、集群等内容。<br/>
-**码农周刊VIP会员**招募中，微信扫描下方二维码，[**立刻加入**](https://weekly.manong.io/bounce?nid=303&aid=19186&url=https%3A%2F%2Fvip.manong.io%2F%3Fgithub%23vip)！<br/>
+**码农周刊 VIP 会员 = 全年 52 期「VIP 会员专属邮件周报」 + 只限 VIP 会员加入的交流圈子 + 大厂「内推机会」 + N 多福利**，微信扫描下方二维码，[**立刻加入**](https://weekly.manong.io/bounce?nid=303&aid=19186&url=https%3A%2F%2Fvip.manong.io%2F%3Fgithub%23vip)！<br/>
 
 <img src="https://img.toutiao.io/ads/vip_3041.jpeg"><br/>
 
