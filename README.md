@@ -25,6 +25,7 @@
 
 ## 分布式
 
+- [熬夜之作：一文带你了解 Cat 分布式监控](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Foswj2ss&aid=19507&nid=310)
 - [初识 etcd](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fjiupdi0&aid=19412&nid=308)
 - [分布式场景下基于重试机制的一致性解决方案](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fv9ayiee&aid=19401&nid=308)
 - [一文读懂 HDFS 架构与设计](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fnfjgybv&aid=19384&nid=308)
@@ -38,8 +39,8 @@
 - [面试被问分布式事务（2PC、3PC、TCC），这样解释没毛病](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fseazusu&aid=19004&nid=300)
 - [分布式定时任务调度框架实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fnecfb59&aid=18948&nid=299)
 - [MIT 6.824 分布式系统课程第一课：介绍笔记](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fhuo7gu5&aid=18889&nid=298)
-- [2019 我的技术之路：分布式系统到分布式制造](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F4n3knao&aid=18817&nid=297)
 - [分布式 ID 生成方案](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fypxzkfo&aid=18816&nid=297)
+- [2019 我的技术之路：分布式系统到分布式制造](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F4n3knao&aid=18817&nid=297)
 - [Filebeat + Kafka + ELK 分布式日志收集](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fgz54sz8&aid=18597&nid=293)
 - [[译] 一切系统都是分布式的 (OReilly, 2015)](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Ferplffd&aid=18580&nid=293)
 - [SOSP19' Ceph 的十年经验总结：文件系统是否适合做分布式文件系统的后端](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Flyt9n91&aid=18431&nid=291)
@@ -54,8 +55,8 @@
 - [ElasticDL：蚂蚁金服开源基于 TensorFlow 的弹性分布式深度学习系统](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Ffv0ohs6&aid=17721&nid=280)
 - [逻辑时钟：如何刻画分布式中的事件顺序](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fmyak0cj&aid=17667&nid=279)
 - [线性一致性实现原理剖析](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F6mzkcch&aid=17655&nid=279)
-- [XSQL：低门槛、易部署、更稳定的多数据源分布式查询引擎](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fd2s2pob&aid=17587&nid=278)
 - [分布式消息系统设计要点](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fozm344g&aid=17546&nid=278)
+- [XSQL：低门槛、易部署、更稳定的多数据源分布式查询引擎](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fd2s2pob&aid=17587&nid=278)
 - [端到端一致性，流系统 Spark/Flink/Kafka/DataFlow 对比总结](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fzy1vawh&aid=17385&nid=276)
 - [React Native 分布式热更新系统](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fiyckexn&aid=17421&nid=276)
 - [盘点 Zookeeper 在分布式架构中的应用](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Foqr4qzf&aid=17266&nid=274)
