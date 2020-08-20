@@ -501,6 +501,7 @@
 
 ## 微服务
 
+- [微服务如何对齐业务架构](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fsew8qta&aid=19712&nid=315)
 - [[译] 如何使用 Istio 1.6 管理多集群中的微服务？](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F2rkky98&aid=19700&nid=314)
 - [走出微服务误区：避免从单体到分布式单体](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fovtxful&aid=19525&nid=311)
 - [一次漫长的 Dubbo 网关内存泄露排查经历](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Frtfen2n&aid=19427&nid=309)
@@ -520,12 +521,12 @@
 - [余额宝背后的服务治理架构](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fwsek9ag&aid=18362&nid=290)
 - [2w 字长文，让你瞬间拥有 “调用链” 开发经验](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F3e7lgvy&aid=18170&nid=287)
 - [腾讯微服务框架 Tars 的 Go 性能提升之路](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fw9edu5t&aid=17875&nid=282)
+- [Go 微服务全链路跟踪详解](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fkc0iaka&aid=17814&nid=281)
 - [微服务架构之网关层 Zuul 剖析](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fc20pykp&aid=17782&nid=281)
 - [.NET Core 微服务网关 Bumblebee 架设](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F5necrxf&aid=17815&nid=281)
-- [Go 微服务全链路跟踪详解](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fkc0iaka&aid=17814&nid=281)
 - [微服务架构下，MySQL 读写分离后，数据库 CPU 飙升卡壳问题解析](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F2nh8e2o&aid=17708&nid=280)
-- [Service Mesh 发展趋势（续）：棋到中盘路往何方](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F9xnhkda&aid=17481&nid=277)
 - [微服务 API 通过 ip 可访问，域名不可访问问题分析](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fy91g23q&aid=17488&nid=277)
+- [Service Mesh 发展趋势（续）：棋到中盘路往何方](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F9xnhkda&aid=17481&nid=277)
 - [互联网架构微服务已经成为主流，Go 语言如何去打造呢？](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fsh3lncg&aid=17296&nid=274)
 - [万字长文全面解析 GraphQL，携程微服务背景下的前后端数据交互方案](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fndbbm8o&aid=17252&nid=274)
 - [颠覆微服务认知：深入思考微服务的七个主流观点](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fns7pxad&aid=17233&nid=274)
@@ -535,9 +536,9 @@
 - [[译] 为什么微服务适合我们](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F0iwp7w&aid=16601&nid=266)
 - [微服务架构与领域驱动设计应用实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F527e3y&aid=16600&nid=266)
 - [[译] 容器、微服务和服务网格简史](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fp54rbk&aid=16547&nid=265)
+- [轻松构建微服务之分布式配置中心](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fo84er8&aid=16470&nid=264)
 - [个推基于 Zipkin 的分布式链路追踪实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F56ji5m&aid=16443&nid=264)
 - [可落地的 DDD（三）：如何利用 DDD 进行微服务的划分](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fvwjg5c&aid=16440&nid=264)
-- [轻松构建微服务之分布式配置中心](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fo84er8&aid=16470&nid=264)
 - [轻松构建微服务之远程调用](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F57dduv&aid=16356&nid=263)
 - [微服务架构下的配置管理：Apollo](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fx7mni2&aid=16287&nid=262)
 - [土味微服务](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fmeg1cl&aid=16252&nid=262)
@@ -545,8 +546,8 @@
 - [最全的微服务知识科普](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Flzegj5&aid=16108&nid=260)
 - [聊一聊微服务网关 kong 近期的模型变迁](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Ff1k7wv&aid=16052&nid=259)
 - [小团队微服务落地实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F37u12h&aid=16020&nid=259)
-- [[译] 混合微服务模式](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F6018jy&aid=15887&nid=257)
 - [[译] 未来我们对微服务和 Serverless 架构有什么期望](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Foopku4&aid=15866&nid=257)
+- [[译] 混合微服务模式](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F6018jy&aid=15887&nid=257)
 - [微保 API 网关的探索与实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Ffnp7wn&aid=15727&nid=255)
 - [[译] 使用 Grab 的实验平台进行混沌实验编排](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fawfudg&aid=15641&nid=253)
 - [离不开的微服务架构，脱不开的 RPC 细节](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F74yprd&aid=15520&nid=252)
@@ -559,9 +560,9 @@
 - [小型系统如何 “微服务” 开发](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fz1n2qv&aid=15086&nid=246)
 - [Kafka 如何解决常见的微服务通信问题](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fpiiy8y&aid=15057&nid=245)
 - [为什么使用主数据思维构建微服务是一种好方式？](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F44rb55&aid=15000&nid=244)
-- [[译] 微服务设计指南](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F4ju4tg&aid=14892&nid=243)
-- [随行付微服务之数据同步 Porter](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fcai7gs&aid=14932&nid=243)
 - [[译] 微服务通信的设计模式](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fvnvqk7&aid=14937&nid=243)
+- [随行付微服务之数据同步 Porter](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fcai7gs&aid=14932&nid=243)
+- [[译] 微服务设计指南](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F4ju4tg&aid=14892&nid=243)
 - [走进 Service Mesh](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fyp0jtz&aid=14874&nid=242)
 - [Restful API 监控实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fjzn3sg&aid=14801&nid=241)
 - [DAGOR：微信微服务过载控制系统（附论文）](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fms81by&aid=14770&nid=241)
@@ -572,18 +573,18 @@
 - [个推基于 Docker 和 Kubernetes 的微服务实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F3n201x&aid=14549&nid=237)
 - [爱奇艺视频后台从 “单兵作战” 到 “团队协作” 的微服务实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F9o4d71&aid=14311&nid=234)
 - [基于 consul 实现微服务的服务发现和负载均衡](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fl2jvii&aid=14234&nid=232)
+- [认证鉴权与 API 权限控制在微服务架构中的设计与实现：升级](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fd7394m&aid=14161&nid=231)
 - [SOFA 微服务多语言演进](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fqu5cwp&aid=14160&nid=231)
 - [用微前端的方式搭建类单页应用](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fj6ow58&aid=14152&nid=231)
-- [认证鉴权与 API 权限控制在微服务架构中的设计与实现：升级](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fd7394m&aid=14161&nid=231)
 - [为啥我用了微服务架构，软件还是不好修改啊？](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fyrntvt&aid=14052&nid=230)
 - [携程微服务架构下的测试浅谈](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F6vcdxh&aid=14032&nid=229)
 - [[译] 推荐 30 个用于微服务的顶级工具](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fmwhpkm&aid=13968&nid=228)
 - [[译] 微服务的 10 个挑战和解决方案](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fbcqfzr&aid=13918&nid=228)
 - [服务框架的技术栈](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fe35r0j&aid=13769&nid=225)
-- [深入解读 Service Mesh 背后的技术细节](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fcy05s1&aid=13687&nid=224)
-- [Spring Cloud 微服务版本灰度发布新神器](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F0hkfi4&aid=13706&nid=224)
-- [微前端快速选型指南](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fg2nb3j&aid=13703&nid=224)
 - [如何构建安全的微服务应用](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fn15ny2&aid=13692&nid=224)
+- [深入解读 Service Mesh 背后的技术细节](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fcy05s1&aid=13687&nid=224)
+- [微前端快速选型指南](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fg2nb3j&aid=13703&nid=224)
+- [Spring Cloud 微服务版本灰度发布新神器](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F0hkfi4&aid=13706&nid=224)
 - [微服务设计模式之 API 网关](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F2bho18&aid=13613&nid=223)
 - [基于 Restful 的微服务架构](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fs4e7gh&aid=13539&nid=222)
 - [微服务架构实践：API Gateway](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fu5779u&aid=13529&nid=222)
@@ -1095,6 +1096,7 @@
 
 ## 重构
 
+- [代码优化实战：我又优化了一百个 if else](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fyv0hdsj&aid=19724&nid=315)
 - [靠谱程序员必备技能：重构也要有方法论](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F1m60x53&aid=19149&nid=303)
 - [系统重构的道与术](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fbbitt36&aid=18438&nid=291)
 - [3000 字详解 Kylin 查询缓存重构](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fmwwbsa0&aid=18181&nid=287)
@@ -1136,6 +1138,7 @@
 
 ## 集群
 
+- [创建高可用 RabbitMQ 集群](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F148cddl&aid=19732&nid=315)
 - [[译] 如何使用 Istio 1.6 管理多集群中的微服务？](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F2rkky98&aid=19700&nid=314)
 - [架构设计基础：单服务、集群、分布式的基本区别和联系](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fqfdoann&aid=19231&nid=305)
 - [Egg.js 打造高可用服务集群](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fjvrb95x&aid=17992&nid=284)
@@ -1150,8 +1153,8 @@
 - [dubbo 源码解析：集群容错架构设计](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fg6a3fw&aid=11000&nid=186)
 - [微服务注册发现集群搭建：Registrator + Consul + Consul-template + nginx](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F8ds6fl&aid=10390&nid=178)
 - [ActiveMQ 高可用集群方案](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fcao9bv&aid=7144&nid=130)
-- [如果有 10000 台机器，你想怎么玩？](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Ftbdmv6&aid=5491&nid=109)
 - [Sky Walking：对 Java 分布式应用程序集群业务运行情况进行追踪、告警和分析的系统](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fagpnck&aid=5541&nid=109)
+- [如果有 10000 台机器，你想怎么玩？](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Ftbdmv6&aid=5491&nid=109)
 
 <br/>
 
