@@ -870,6 +870,7 @@
 
 ## 编程语言
 
+- [Go 设计模式（八）：装饰器模式](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fv7d0lnr&aid=19888&nid=319)
 - [Go 设计模式（五）：创建型模式总结](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Frh2towx&aid=19866&nid=318)
 - [Go 1.14 实现高性能内存分配器](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Finltn1q&aid=18914&nid=298)
 - [Spring Boot 与微服务从 0 到 1 的实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Frbfhyll&aid=18651&nid=294)
@@ -889,8 +890,8 @@
 - [拍拍贷消息系统原理与应用](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fx5qrda&aid=16336&nid=263)
 - [微服务化后缓存怎么做](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F7q0a3u&aid=16189&nid=261)
 - [Golang Failpoint 的设计与实现](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fep1en9&aid=16148&nid=260)
-- [[译] 高性能 Go 服务的内存优化](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fmacdlu&aid=15921&nid=257)
 - [Golang 轻量级高并发 socket 框架 chitchat](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fwmwus4&aid=15910&nid=257)
+- [[译] 高性能 Go 服务的内存优化](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fmacdlu&aid=15921&nid=257)
 - [马蜂窝搜索基于 Golang 并发代理的一次架构升级](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fbu5td2&aid=15817&nid=256)
 - [Android 技术架构演进与未来](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F6jrqfl&aid=15745&nid=255)
 - [Android 架构组件：让天下没有难做的 App](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F0qt8jk&aid=15678&nid=254)
@@ -1065,6 +1066,7 @@
 
 ## 设计模式
 
+- [Go 设计模式（八）：装饰器模式](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fv7d0lnr&aid=19888&nid=319)
 - [Go 设计模式（五）：创建型模式总结](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Frh2towx&aid=19866&nid=318)
 - [设计模式太难了？看看这个 “说人话” 的版本再说！](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F8ofy33k&aid=19349&nid=307)
 - [设计模式太难了？看看这个 “说人话” 的版本再说！](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F8ofy33k&aid=19293&nid=306)
@@ -1106,6 +1108,7 @@
 
 ## 重构
 
+- [代码重构之法：方法重构分析](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fdkhtai6&aid=19896&nid=319)
 - [代码优化实战：我又优化了一百个 if else](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fyv0hdsj&aid=19724&nid=315)
 - [靠谱程序员必备技能：重构也要有方法论](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F1m60x53&aid=19149&nid=303)
 - [系统重构的道与术](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fbbitt36&aid=18438&nid=291)
