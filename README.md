@@ -508,6 +508,7 @@
 
 ## 微服务
 
+- [如何提升微服务的幸福感？](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fp8owj4t&aid=20000&nid=322)
 - [荔枝微课基础架构的演进与实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F0epkzuh&aid=19923&nid=320)
 - [近万服务实例稳定运行 0 故障，携程微服务框架实践及思考](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Flx80lt5&aid=19921&nid=320)
 - [onemall：芋道 mall 商城](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fzo3f5l5&aid=19820&nid=317)
