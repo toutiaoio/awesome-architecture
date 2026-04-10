@@ -23,6 +23,7 @@
 - [重构](#重构)
 - [集群](#集群)
 
+- [Gitstar](https://dev.gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=toutiaoio_awesome-architecture) - Follow developers on GitHub and see what repos they star. Like a social feed for repo discovery.
 ## 分布式
 
 - [漫谈分布式系统（二十三）：分布式数据仓库](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Flk48kxt&aid=20223&nid=327)
