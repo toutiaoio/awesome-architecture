@@ -792,6 +792,11 @@
 - [为豆瓣电影实现 User-based 协同过滤的推荐系统](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fh6dlgb&aid=4602&nid=98)
 - [推荐系统基础知识](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F0za23w&aid=4393&nid=96)
 - [美团推荐系统整体框架与关键工作 (沈国阳)](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fjq47s&aid=3239&nid=84)
+## AI Coding Tools
+
+- [Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain) - Self-evolving AI coding intelligence with infinite memory, genetic algorithm self-evolution, predictive bug detection, PageRank knowledge graphs, swarm intelligence, and adversarial defense.
+
+- [Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge) - 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline. Visual dashboard, one-click install, skill doctor, auto-update.
 - [使用 Python 实现一个简单的推荐系统 (Kai Zhou)](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fcfc1t&aid=2132&nid=67)
 
 ## 框架
