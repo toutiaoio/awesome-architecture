@@ -1189,3 +1189,5 @@
 <br/>
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+- [OneMira C1](https://onemira.com/products/c1) - Standalone AI voice recorder with Local AI summaries, automatic Speaker ID across 99 languages, Zero Cloud privacy ($0/month subscription), Google Native OKF Markdown Wiki, and native MCP/CLI integration ([GitHub](https://github.com/onemira-space/onemira-mcp)).
